@@ -23,17 +23,21 @@ O sistema simula uma partida de jogo da forca, controlando o número de erros pe
 ## ▶️ Como executar
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone https://github.com/devJonas07/Classes-Java.git
-   ```
-2. Compile os arquivos `.java`:
-   ```bash
+```
+2. Entre na pasta do jogo:
+```bash
+   cd Classes-Java/JogoForca
+```
+3. Compile os arquivos `.java`:
+```bash
    javac *.java
-   ```
-3. Execute a classe principal:
-   ```bash
+```
+4. Execute a classe principal:
+```bash
    java Main
-   ```
+```
 
 ## 📌 Status
 
